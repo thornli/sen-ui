@@ -1,10 +1,10 @@
 {
-  "name": "@storybook/design-system",
-  "version": "7.15.17",
+  "name": "@thornli/sen-ui",
+  "version": "1.0.0",
   "description": "Storybook design system",
   "repository": {
     "type": "git",
-    "url": "https://github.com/storybookjs/design-system.git"
+    "url": "https://github.com/thornli/sen-ui.git"
   },
   "license": "MIT",
   "author": {
@@ -70,7 +70,7 @@
     "uuid": "^3.3.3"
   },
   "devDependencies": {
-    "@babel/cli": "^7.15.4",
+    "@babel/cli": "^7.24.5",
     "@babel/core": "^7.15.5",
     "@babel/node": "^7.15.4",
     "@babel/plugin-proposal-object-rest-spread": "^7.15.6",
@@ -90,11 +90,11 @@
     "@storybook/react-webpack5": "^7.6.6",
     "@svgr/cli": "^6.1.1",
     "@types/fs-extra": "^9.0.1",
-    "auto": "^9.50.1",
+    "auto": "^11.1.6",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.1.0",
     "chromatic": "^11.3.0",
-    "cross-env": "^7.0.2",
+    "cross-env": "^7.0.3",
     "dotenv-cli": "^3.1.0",
     "eslint": "^7.1.0",
     "eslint-plugin-storybook": "^0.6.11",
